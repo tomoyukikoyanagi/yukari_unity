@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Damage
+  - Enemy
+  - item
+  - TrapBox
+  - Box
+  - Sakura
+  - ground
+  - Dokan
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 1705312685
+    locked: 0
+  - name: transparent
+    uniqueID: 2268848003
+    locked: 0
+  - name: map
+    uniqueID: 1664048955
+    locked: 0
+  - name: item
+    uniqueID: 1927079531
+    locked: 0
+  - name: enemy
+    uniqueID: 1248686983
+    locked: 0
+  - name: player
+    uniqueID: 1427940539
+    locked: 0
+  - name: Box
+    uniqueID: 1046074961
+    locked: 0
+  - name: dokan
+    uniqueID: 687746313
+    locked: 0
