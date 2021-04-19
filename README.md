@@ -1,23 +1,19 @@
 Unity 2d gameDemo
 ====
-
-Overview
-unity project for 2d game 
+unity project for 2d action game simulart to mario. 
 
 ## Description
+
 
 ## Demo
 playing demo<br>
 ![demo](https://user-images.githubusercontent.com/62272146/115149067-59183380-a09d-11eb-9d84-bbb2f40bd2de.gif)
-## VS. 
 
 ## Requirement
-
-## Usage
+unity version : 2020.1.17f1
 
 ## Install
-
-## Contribution
+Please download source code by zip
 
 ## Licence
 
