@@ -13,6 +13,7 @@ TagManager:
   - ground
   - Dokan
   - GameManager
+  - Flower
   layers:
   - Default
   - TransparentFX

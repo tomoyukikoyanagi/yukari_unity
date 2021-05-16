@@ -75,6 +75,8 @@ MonoBehaviour:
   isPlayerHit: 0
   isEnemyHit: 0
   isBoxHit: 0
+  isTrapBoxHit: 0
+  isDokan: 0
 --- !u!1 &6913948058617466846
 GameObject:
   m_ObjectHideFlags: 0
@@ -199,6 +201,8 @@ MonoBehaviour:
   player: {fileID: 0}
   speed: 150
   standby: 1
+  standbyDistance: 5
+  stay: 0
 --- !u!58 &6913948058617466834
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -322,7 +326,7 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 1
+  m_UsedByComposite: 0
   m_Offset: {x: -1.14, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,3 +357,5 @@ MonoBehaviour:
   isPlayerHit: 0
   isEnemyHit: 0
   isBoxHit: 0
+  isTrapBoxHit: 0
+  isDokan: 0

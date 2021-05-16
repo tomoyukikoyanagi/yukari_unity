@@ -20,11 +20,20 @@ public class PlayerCtrl : MonoBehaviour
     private bool isSloped;
     private bool isHeadBump;
     public bool isSakuraMode;
+    public bool isLightMode;
 
     private GameObject canvas;
     private GameObject sakuraSprite;
+    private UnityEngine.Experimental.Rendering.Universal.Light2D urp;
+    private GameObject lightURP;
+    private float innerRadius1 = 0.15f;
+    private float outerRadius1 = 1.5f;
+    private float innerRadius2 = 2.5f;
+    private float outerRadius2 = 8.0f;
+    private float lightSpeed = 1f;
 
-    
+
+
     private bool isDead;
 
     
@@ -38,6 +47,12 @@ public class PlayerCtrl : MonoBehaviour
 
         sakuraSprite = GameObject.Find("SakuraSprite");
         canvas = GameObject.Find("Canvas");
+        lightURP = GameObject.Find("PlayerLight");
+        urp = lightURP.GetComponent<UnityEngine.Experimental.Rendering.Universal.Light2D>();
+        urp.pointLightInnerRadius = innerRadius1;
+        urp.pointLightOuterRadius = outerRadius1;
+
+
         sakuraSprite.SetActive(false);
         Sound.LoadSe("head_hit", "head_hit");
         Sound.LoadSe("jump", "jump");
@@ -231,13 +246,30 @@ public class PlayerCtrl : MonoBehaviour
             isSakuraMode = true;
             Invoke("EndSakuraMode", 10.0f);
         }
+
+        if (col.gameObject.tag == "Flower")
+        {
+            //urp.pointLightInnerRadius = Mathf.MoveTowards(innerRadius1,innerRadius2, Time.deltaTime * lightSpeed);
+            //urp.pointLightOuterRadius = Mathf.MoveTowards(outerRadius1,outerRadius2, Time.deltaTime * lightSpeed);
+            urp.pointLightInnerRadius = innerRadius2;
+            urp.pointLightOuterRadius = outerRadius2;
+            isLightMode = true;
+            Invoke("EndLightMode", 10.0f);
+        }
     }
 
     void EndSakuraMode()
     {
         isSakuraMode = false;
         sakuraSprite.SetActive(false);
-        Debug.Log("end_sakuramode");
+    }
+
+    void EndLightMode()
+    {
+        urp.pointLightInnerRadius = innerRadius1;
+        urp.pointLightOuterRadius = outerRadius1;
+        //urp.pointLightInnerRadius = Mathf.MoveTowards(innerRadius2, innerRadius1, Time.deltaTime * lightSpeed);
+        //urp.pointLightOuterRadius = Mathf.MoveTowards(outerRadius2, outerRadius1, Time.deltaTime * lightSpeed);
     }
 
     private void OnCollisionEnter2D(Collision2D col )

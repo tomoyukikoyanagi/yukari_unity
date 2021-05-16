@@ -73,6 +73,7 @@ public class enemy01Ctrl : MonoBehaviour
 
     private void startAction()
     {
+        //   direction
         float x = 1;
         if (this.transform.eulerAngles.y == 180)
         {
@@ -122,6 +123,8 @@ public class enemy01Ctrl : MonoBehaviour
             }
             if (sChecker.isGroundHit & !isIdle)
             {
+                sChecker.isGroundHit = false;
+                Debug.Log("sidehit");
                 StartCoroutine("ChangeRotate");
             }
         

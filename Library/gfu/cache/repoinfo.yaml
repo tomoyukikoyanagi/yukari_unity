@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-05-13T21:45:34.975+09:00
-  initializedAtString: 2021-05-13T21:45:34.975+09:00
+  lastUpdatedAtString: 2021-05-16T16:19:32.715+09:00
+  initializedAtString: 2021-05-16T16:19:32.715+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/tomoyukikoyanagi/yukari_unity
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: stage2
+    tracking: origin/stage2
   currentConfigBranch:
-    name: main
+    name: stage2
     remote:
       name: origin
       url: https://github.com/tomoyukikoyanagi/yukari_unity
-    trackingBranch: main
+    trackingBranch: stage2
   currentConfigRemote:
     name: origin
     url: https://github.com/tomoyukikoyanagi/yukari_unity

@@ -1,26 +1,22 @@
 ﻿<Properties StartupConfiguration="{8D45BF63-7519-D232-C44C-B3EA4C823E04}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/enemy01Ctrl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HitChecker.cs">
     <Files>
       <File FileName="Assets/DokanCtrl.cs" Line="33" Column="19" />
-      <File FileName="Assets/CamraCtrl.cs" Line="1" Column="1" />
-      <File FileName="Assets/CanvasCtrl.cs" Line="101" Column="36" />
+      <File FileName="Assets/CamraCtrl.cs" />
+      <File FileName="Assets/CanvasCtrl.cs" />
       <File FileName="Assets/StarCtrl.cs" />
-      <File FileName="Assets/titleScene.cs" Line="12" Column="28" />
-      <File FileName="Assets/enemy01Ctrl.cs" Line="53" Column="37" />
-      <File FileName="Assets/PlayerCtrl.cs" Line="218" Column="29" NotebookId="1" IsPinned="True" />
-      <File FileName="Assets/cherryCtrl.cs" Line="102" Column="9" NotebookId="1" />
-      <File FileName="Assets/sakuraBoxCtrl.cs" NotebookId="1" />
-      <File FileName="Assets/boxCtrl.cs" NotebookId="1" />
-      <File FileName="Assets/HitChecker.cs" Line="1" Column="1" NotebookId="1" />
-      <File FileName="Assets/GameManager.cs" Line="12" Column="9" NotebookId="1" />
-      <File FileName="Assets/Sound.cs" Line="155" Column="27" NotebookId="1" />
+      <File FileName="Assets/titleScene.cs" />
+      <File FileName="Assets/enemy01Ctrl.cs" Line="125" Column="14" />
+      <File FileName="Assets/MoveGroundCtrl.cs" Line="15" Column="2" />
+      <File FileName="Assets/PlayerCtrl.cs" Line="215" Column="40" />
+      <File FileName="Assets/HitChecker.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="yukari" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="enemy01Ctrl.cs" selected="True" />
+              <Node name="HitChecker.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -29,7 +25,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="01a63185-ccfa-4b22-b1e6-a3b326933313" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa10ba78-8988-484f-803b-397a5eb033f4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
