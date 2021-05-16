@@ -30,6 +30,8 @@ public class CanvasCtrl : MonoBehaviour
 
     private int deathCount;
 
+    public string sceneName = "SampleScene";
+
     
 
     // Start is called before the first frame update
@@ -104,12 +106,12 @@ public class CanvasCtrl : MonoBehaviour
         
         yield return new WaitForSeconds(3.0f);
         SceneManager.sceneLoaded += GameSceneLoaded;
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene(sceneName);
     }
 
     private void GameSceneLoaded(Scene next, LoadSceneMode mode)
     {
-        Scene scene = SceneManager.GetSceneByName("SampleScene");
+        Scene scene = SceneManager.GetSceneByName(sceneName);
         foreach (var rootGameObject in scene.GetRootGameObjects())
         {
             GameManager gameManager = rootGameObject.GetComponent<GameManager>();

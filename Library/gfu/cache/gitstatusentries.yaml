@@ -13,102 +13,66 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-16T20:09:17.103+09:00
+  lastUpdatedAtString: 2021-05-16T23:45:45.670+09:00
   initializedAtString: 2021-05-16T16:19:33.079+09:00
   entries:
-  - path: .vs/yukari/xs/project-cache/Assembly-CSharp-Debug.json
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/.vs/yukari/xs/project-cache/Assembly-CSharp-Debug.json
-    projectPath: .vs/yukari/xs/project-cache/Assembly-CSharp-Debug.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs/yukari/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/.vs/yukari/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
-    projectPath: .vs/yukari/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+  - path: Assets/Canvas.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/Canvas.meta
+    projectPath: Assets/Canvas.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: .vs/yukari/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/.vs/yukari/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
-    projectPath: .vs/yukari/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs/yukari/xs/project-cache/Elringus.SpriteGlow.Runtime-Debug.json
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/.vs/yukari/xs/project-cache/Elringus.SpriteGlow.Runtime-Debug.json
-    projectPath: .vs/yukari/xs/project-cache/Elringus.SpriteGlow.Runtime-Debug.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs/yukari/xs/UserPrefs.xml
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/.vs/yukari/xs/UserPrefs.xml
-    projectPath: .vs/yukari/xs/UserPrefs.xml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-firstpass.csproj
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assembly-CSharp-firstpass.csproj
-    projectPath: Assembly-CSharp-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/background.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/background.meta
-    projectPath: Assets/background.meta
+  - path: Assets/Canvas/Canvas.prefab
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/Canvas/Canvas.prefab
+    projectPath: Assets/Canvas/Canvas.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/background/bg2.png
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/background/bg2.png
-    projectPath: Assets/background/bg2.png
+  - path: Assets/Canvas/Canvas.prefab.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/Canvas/Canvas.prefab.meta
+    projectPath: Assets/Canvas/Canvas.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/background/bg2.png.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/background/bg2.png.meta
-    projectPath: Assets/background/bg2.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/enemy/enemy_0 1.prefab
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/enemy/enemy_0 1.prefab
-    projectPath: Assets/enemy/enemy_0 1.prefab
+  - path: Assets/CanvasCtrl.cs
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/CanvasCtrl.cs
+    projectPath: Assets/CanvasCtrl.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/enemy01Ctrl.cs
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/enemy01Ctrl.cs
-    projectPath: Assets/enemy01Ctrl.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/MoveGroundCtrl.cs
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/MoveGroundCtrl.cs
-    projectPath: Assets/MoveGroundCtrl.cs
+  - path: Assets/github/Canvas.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/github/Canvas.meta
+    projectPath: Assets/github/Canvas.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/MoveGroundCtrl.cs.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/MoveGroundCtrl.cs.meta
-    projectPath: Assets/MoveGroundCtrl.cs.meta
+  - path: Assets/player/Player 1.prefab
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/player/Player 1.prefab
+    projectPath: Assets/player/Player 1.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/PlayerCtrl.cs
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/PlayerCtrl.cs
-    projectPath: Assets/PlayerCtrl.cs
+  - path: Assets/player/Player 1.prefab.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/player/Player 1.prefab.meta
+    projectPath: Assets/player/Player 1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/NewShaderVariants.shadervariants
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/Scenes/NewShaderVariants.shadervariants
+    projectPath: Assets/Scenes/NewShaderVariants.shadervariants
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/NewShaderVariants.shadervariants.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/Scenes/NewShaderVariants.shadervariants.meta
+    projectPath: Assets/Scenes/NewShaderVariants.shadervariants.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -118,101 +82,855 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/sprite/flower.anim
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/flower.anim
-    projectPath: Assets/sprite/flower.anim
+  - path: Assets/sprite/stage2 1.png
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/stage2 1.png
+    projectPath: Assets/sprite/stage2 1.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/sprite/flower.anim.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/flower.anim.meta
-    projectPath: Assets/sprite/flower.anim.meta
+  - path: Assets/sprite/stage2 1.png.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/stage2 1.png.meta
+    projectPath: Assets/sprite/stage2 1.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/sprite/flower.png
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/flower.png
-    projectPath: Assets/sprite/flower.png
+  - path: Assets/StagePallet/2-1Palette.prefab
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/2-1Palette.prefab
+    projectPath: Assets/StagePallet/2-1Palette.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/sprite/flower.png.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/flower.png.meta
-    projectPath: Assets/sprite/flower.png.meta
+  - path: Assets/StagePallet/2-1Palette.prefab.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/2-1Palette.prefab.meta
+    projectPath: Assets/StagePallet/2-1Palette.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/sprite/flower_0.controller
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/flower_0.controller
-    projectPath: Assets/sprite/flower_0.controller
+  - path: Assets/StagePallet/stage2 1_0.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_0.asset
+    projectPath: Assets/StagePallet/stage2 1_0.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/sprite/flower_0.controller.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/flower_0.controller.meta
-    projectPath: Assets/sprite/flower_0.controller.meta
+  - path: Assets/StagePallet/stage2 1_0.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_0.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_0.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/sprite/stage2_block.png
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/stage2_block.png
-    projectPath: Assets/sprite/stage2_block.png
+  - path: Assets/StagePallet/stage2 1_1.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_1.asset
+    projectPath: Assets/StagePallet/stage2 1_1.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/sprite/stage2_block.png.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/sprite/stage2_block.png.meta
-    projectPath: Assets/sprite/stage2_block.png.meta
+  - path: Assets/StagePallet/stage2 1_1.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_1.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_1.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/universalRP/New 2D Renderer Data.asset
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/universalRP/New 2D Renderer
-      Data.asset
-    projectPath: Assets/universalRP/New 2D Renderer Data.asset
+  - path: Assets/StagePallet/stage2 1_10.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_10.asset
+    projectPath: Assets/StagePallet/stage2 1_10.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/universalRP/New 2D Renderer Data.asset.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/universalRP/New 2D Renderer
-      Data.asset.meta
-    projectPath: Assets/universalRP/New 2D Renderer Data.asset.meta
+  - path: Assets/StagePallet/stage2 1_10.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_10.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_10.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/universalRP/NewShaderVariants.shadervariants
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/universalRP/NewShaderVariants.shadervariants
-    projectPath: Assets/universalRP/NewShaderVariants.shadervariants
+  - path: Assets/StagePallet/stage2 1_11.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_11.asset
+    projectPath: Assets/StagePallet/stage2 1_11.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/universalRP/NewShaderVariants.shadervariants.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/universalRP/NewShaderVariants.shadervariants.meta
-    projectPath: Assets/universalRP/NewShaderVariants.shadervariants.meta
+  - path: Assets/StagePallet/stage2 1_11.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_11.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_11.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/universalRP/UniversalRenderPipelineAsset.asset
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/universalRP/UniversalRenderPipelineAsset.asset
-    projectPath: Assets/universalRP/UniversalRenderPipelineAsset.asset
+  - path: Assets/StagePallet/stage2 1_12.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_12.asset
+    projectPath: Assets/StagePallet/stage2 1_12.asset
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/universalRP/UniversalRenderPipelineAsset_Renderer.asset
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/universalRP/UniversalRenderPipelineAsset_Renderer.asset
-    projectPath: Assets/universalRP/UniversalRenderPipelineAsset_Renderer.asset
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_12.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_12.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_12.asset.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/universalRP/UniversalRenderPipelineAsset_Renderer.asset.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/universalRP/UniversalRenderPipelineAsset_Renderer.asset.meta
-    projectPath: Assets/universalRP/UniversalRenderPipelineAsset_Renderer.asset.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_13.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_13.asset
+    projectPath: Assets/StagePallet/stage2 1_13.asset
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/UniversalRPs.meta
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/UniversalRPs.meta
-    projectPath: Assets/UniversalRPs.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_13.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_13.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_13.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_14.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_14.asset
+    projectPath: Assets/StagePallet/stage2 1_14.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_14.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_14.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_14.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_15.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_15.asset
+    projectPath: Assets/StagePallet/stage2 1_15.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_15.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_15.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_15.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_16.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_16.asset
+    projectPath: Assets/StagePallet/stage2 1_16.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_16.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_16.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_16.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_17.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_17.asset
+    projectPath: Assets/StagePallet/stage2 1_17.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_17.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_17.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_17.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_18.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_18.asset
+    projectPath: Assets/StagePallet/stage2 1_18.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_18.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_18.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_18.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_19.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_19.asset
+    projectPath: Assets/StagePallet/stage2 1_19.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_19.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_19.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_19.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_2.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_2.asset
+    projectPath: Assets/StagePallet/stage2 1_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_2.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_2.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_20.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_20.asset
+    projectPath: Assets/StagePallet/stage2 1_20.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_20.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_20.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_20.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_21.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_21.asset
+    projectPath: Assets/StagePallet/stage2 1_21.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_21.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_21.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_21.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_22.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_22.asset
+    projectPath: Assets/StagePallet/stage2 1_22.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_22.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_22.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_22.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_23.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_23.asset
+    projectPath: Assets/StagePallet/stage2 1_23.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_23.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_23.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_23.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_24.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_24.asset
+    projectPath: Assets/StagePallet/stage2 1_24.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_24.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_24.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_24.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_25.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_25.asset
+    projectPath: Assets/StagePallet/stage2 1_25.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_25.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_25.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_25.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_26.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_26.asset
+    projectPath: Assets/StagePallet/stage2 1_26.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_26.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_26.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_26.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_27.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_27.asset
+    projectPath: Assets/StagePallet/stage2 1_27.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_27.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_27.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_27.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_28.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_28.asset
+    projectPath: Assets/StagePallet/stage2 1_28.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_28.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_28.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_28.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_29.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_29.asset
+    projectPath: Assets/StagePallet/stage2 1_29.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_29.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_29.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_29.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_3.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_3.asset
+    projectPath: Assets/StagePallet/stage2 1_3.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_3.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_3.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_3.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_30.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_30.asset
+    projectPath: Assets/StagePallet/stage2 1_30.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_30.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_30.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_30.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_31.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_31.asset
+    projectPath: Assets/StagePallet/stage2 1_31.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_31.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_31.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_31.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_32.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_32.asset
+    projectPath: Assets/StagePallet/stage2 1_32.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_32.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_32.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_32.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_33.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_33.asset
+    projectPath: Assets/StagePallet/stage2 1_33.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_33.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_33.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_33.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_34.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_34.asset
+    projectPath: Assets/StagePallet/stage2 1_34.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_34.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_34.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_34.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_35.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_35.asset
+    projectPath: Assets/StagePallet/stage2 1_35.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_35.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_35.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_35.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_36.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_36.asset
+    projectPath: Assets/StagePallet/stage2 1_36.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_36.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_36.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_36.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_37.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_37.asset
+    projectPath: Assets/StagePallet/stage2 1_37.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_37.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_37.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_37.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_38.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_38.asset
+    projectPath: Assets/StagePallet/stage2 1_38.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_38.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_38.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_38.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_39.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_39.asset
+    projectPath: Assets/StagePallet/stage2 1_39.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_39.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_39.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_39.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_4.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_4.asset
+    projectPath: Assets/StagePallet/stage2 1_4.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_4.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_4.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_4.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_40.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_40.asset
+    projectPath: Assets/StagePallet/stage2 1_40.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_40.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_40.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_40.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_41.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_41.asset
+    projectPath: Assets/StagePallet/stage2 1_41.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_41.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_41.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_41.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_42.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_42.asset
+    projectPath: Assets/StagePallet/stage2 1_42.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_42.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_42.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_42.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_43.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_43.asset
+    projectPath: Assets/StagePallet/stage2 1_43.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_43.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_43.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_43.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_44.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_44.asset
+    projectPath: Assets/StagePallet/stage2 1_44.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_44.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_44.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_44.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_45.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_45.asset
+    projectPath: Assets/StagePallet/stage2 1_45.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_45.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_45.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_45.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_46.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_46.asset
+    projectPath: Assets/StagePallet/stage2 1_46.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_46.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_46.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_46.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_47.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_47.asset
+    projectPath: Assets/StagePallet/stage2 1_47.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_47.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_47.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_47.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_48.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_48.asset
+    projectPath: Assets/StagePallet/stage2 1_48.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_48.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_48.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_48.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_49.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_49.asset
+    projectPath: Assets/StagePallet/stage2 1_49.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_49.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_49.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_49.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_5.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_5.asset
+    projectPath: Assets/StagePallet/stage2 1_5.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_5.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_5.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_5.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_50.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_50.asset
+    projectPath: Assets/StagePallet/stage2 1_50.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_50.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_50.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_50.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_51.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_51.asset
+    projectPath: Assets/StagePallet/stage2 1_51.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_51.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_51.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_51.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_52.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_52.asset
+    projectPath: Assets/StagePallet/stage2 1_52.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_52.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_52.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_52.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_53.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_53.asset
+    projectPath: Assets/StagePallet/stage2 1_53.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_53.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_53.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_53.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_54.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_54.asset
+    projectPath: Assets/StagePallet/stage2 1_54.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_54.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_54.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_54.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_55.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_55.asset
+    projectPath: Assets/StagePallet/stage2 1_55.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_55.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_55.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_55.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_56.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_56.asset
+    projectPath: Assets/StagePallet/stage2 1_56.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_56.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_56.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_56.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_57.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_57.asset
+    projectPath: Assets/StagePallet/stage2 1_57.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_57.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_57.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_57.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_58.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_58.asset
+    projectPath: Assets/StagePallet/stage2 1_58.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_58.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_58.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_58.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_59.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_59.asset
+    projectPath: Assets/StagePallet/stage2 1_59.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_59.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_59.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_59.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_6.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_6.asset
+    projectPath: Assets/StagePallet/stage2 1_6.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_6.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_6.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_6.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_60.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_60.asset
+    projectPath: Assets/StagePallet/stage2 1_60.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_60.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_60.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_60.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_61.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_61.asset
+    projectPath: Assets/StagePallet/stage2 1_61.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_61.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_61.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_61.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_62.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_62.asset
+    projectPath: Assets/StagePallet/stage2 1_62.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_62.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_62.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_62.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_63.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_63.asset
+    projectPath: Assets/StagePallet/stage2 1_63.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_63.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_63.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_63.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_64.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_64.asset
+    projectPath: Assets/StagePallet/stage2 1_64.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_64.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_64.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_64.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_65.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_65.asset
+    projectPath: Assets/StagePallet/stage2 1_65.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_65.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_65.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_65.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_66.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_66.asset
+    projectPath: Assets/StagePallet/stage2 1_66.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_66.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_66.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_66.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_67.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_67.asset
+    projectPath: Assets/StagePallet/stage2 1_67.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_67.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_67.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_67.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_68.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_68.asset
+    projectPath: Assets/StagePallet/stage2 1_68.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_68.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_68.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_68.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_7.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_7.asset
+    projectPath: Assets/StagePallet/stage2 1_7.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_7.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_7.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_7.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_8.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_8.asset
+    projectPath: Assets/StagePallet/stage2 1_8.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_8.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_8.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_8.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_9.asset
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_9.asset
+    projectPath: Assets/StagePallet/stage2 1_9.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/StagePallet/stage2 1_9.asset.meta
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Assets/StagePallet/stage2 1_9.asset.meta
+    projectPath: Assets/StagePallet/stage2 1_9.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -222,180 +940,372 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/08/084056eacf09db3dc2a9f2f1df736953
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/08/084056eacf09db3dc2a9f2f1df736953
-    projectPath: Library/Artifacts/08/084056eacf09db3dc2a9f2f1df736953
+  - path: Library/Artifacts/00/00d8839ffc4556a634c53a6e426312d0
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/00/00d8839ffc4556a634c53a6e426312d0
+    projectPath: Library/Artifacts/00/00d8839ffc4556a634c53a6e426312d0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/0d/0d534aaa2c3875dce2870ad076dbb0c3
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/0d/0d534aaa2c3875dce2870ad076dbb0c3
-    projectPath: Library/Artifacts/0d/0d534aaa2c3875dce2870ad076dbb0c3
+  - path: Library/Artifacts/01/01a86711d9bafe7f1a19a45732b7718b
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/01/01a86711d9bafe7f1a19a45732b7718b
+    projectPath: Library/Artifacts/01/01a86711d9bafe7f1a19a45732b7718b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/10/10e97b1892f7b39f240c5d2e36ddc70d
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/10/10e97b1892f7b39f240c5d2e36ddc70d
-    projectPath: Library/Artifacts/10/10e97b1892f7b39f240c5d2e36ddc70d
+  - path: Library/Artifacts/04/04098582deee57fc5eab16b6ab56da59
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/04/04098582deee57fc5eab16b6ab56da59
+    projectPath: Library/Artifacts/04/04098582deee57fc5eab16b6ab56da59
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/1d/1d30efa8acec4140e70abcdcfdf553f3
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/1d/1d30efa8acec4140e70abcdcfdf553f3
-    projectPath: Library/Artifacts/1d/1d30efa8acec4140e70abcdcfdf553f3
+  - path: Library/Artifacts/08/088ef34aa5023d336f605ae04de4f382
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/08/088ef34aa5023d336f605ae04de4f382
+    projectPath: Library/Artifacts/08/088ef34aa5023d336f605ae04de4f382
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/31/31d2fbca17317900f5a46d22b8f25fb9
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/31/31d2fbca17317900f5a46d22b8f25fb9
-    projectPath: Library/Artifacts/31/31d2fbca17317900f5a46d22b8f25fb9
+  - path: Library/Artifacts/09/09c4e19b2d610625ec96ff9cb375db2c
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/09/09c4e19b2d610625ec96ff9cb375db2c
+    projectPath: Library/Artifacts/09/09c4e19b2d610625ec96ff9cb375db2c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/40/4086dab671448d0ae1d3ed90857a43b4
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/40/4086dab671448d0ae1d3ed90857a43b4
-    projectPath: Library/Artifacts/40/4086dab671448d0ae1d3ed90857a43b4
+  - path: Library/Artifacts/0b/0bad5c6a54095428ff399dfe2cc328d9
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/0b/0bad5c6a54095428ff399dfe2cc328d9
+    projectPath: Library/Artifacts/0b/0bad5c6a54095428ff399dfe2cc328d9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/43/43e96db7262236d107e7f9ea88189cb4
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/43/43e96db7262236d107e7f9ea88189cb4
-    projectPath: Library/Artifacts/43/43e96db7262236d107e7f9ea88189cb4
+  - path: Library/Artifacts/11/11635478f8576201f178dd8c47815844
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/11/11635478f8576201f178dd8c47815844
+    projectPath: Library/Artifacts/11/11635478f8576201f178dd8c47815844
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/69/69ea96eface24d85ebe137947435019e
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/69/69ea96eface24d85ebe137947435019e
-    projectPath: Library/Artifacts/69/69ea96eface24d85ebe137947435019e
+  - path: Library/Artifacts/17/17569b94432f56817c7ff7d9b60ee5d0
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/17/17569b94432f56817c7ff7d9b60ee5d0
+    projectPath: Library/Artifacts/17/17569b94432f56817c7ff7d9b60ee5d0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/71/711faafbb495326ff096e5ca635bc2aa
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/71/711faafbb495326ff096e5ca635bc2aa
-    projectPath: Library/Artifacts/71/711faafbb495326ff096e5ca635bc2aa
+  - path: Library/Artifacts/17/177faa6dedbe6b4eb5e88be5430fc59b
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/17/177faa6dedbe6b4eb5e88be5430fc59b
+    projectPath: Library/Artifacts/17/177faa6dedbe6b4eb5e88be5430fc59b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/73/733b6b02ab82939658be83b5a68fdc8f
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/73/733b6b02ab82939658be83b5a68fdc8f
-    projectPath: Library/Artifacts/73/733b6b02ab82939658be83b5a68fdc8f
+  - path: Library/Artifacts/1b/1b2b43394c23aea60780a0d4b8e75322
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/1b/1b2b43394c23aea60780a0d4b8e75322
+    projectPath: Library/Artifacts/1b/1b2b43394c23aea60780a0d4b8e75322
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/7f/7f409187cc0859670ee56493f43c8883
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/7f/7f409187cc0859670ee56493f43c8883
-    projectPath: Library/Artifacts/7f/7f409187cc0859670ee56493f43c8883
+  - path: Library/Artifacts/1f/1f748ec5fd4b72811b0250a66f385b13
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/1f/1f748ec5fd4b72811b0250a66f385b13
+    projectPath: Library/Artifacts/1f/1f748ec5fd4b72811b0250a66f385b13
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/81/81f2032885cce87d3612b10fb51b56ba
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/81/81f2032885cce87d3612b10fb51b56ba
-    projectPath: Library/Artifacts/81/81f2032885cce87d3612b10fb51b56ba
+  - path: Library/Artifacts/26/2655aab7d446c6387c742f6808e8366c
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/26/2655aab7d446c6387c742f6808e8366c
+    projectPath: Library/Artifacts/26/2655aab7d446c6387c742f6808e8366c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/92/92c72bc82b43f7c7dbafe6b16c52034b
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/92/92c72bc82b43f7c7dbafe6b16c52034b
-    projectPath: Library/Artifacts/92/92c72bc82b43f7c7dbafe6b16c52034b
+  - path: Library/Artifacts/29/29abee45a4deb373d2a1b26c8fa20797
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/29/29abee45a4deb373d2a1b26c8fa20797
+    projectPath: Library/Artifacts/29/29abee45a4deb373d2a1b26c8fa20797
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/93/93befdf4cd72536ff86b1b38498d8112
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/93/93befdf4cd72536ff86b1b38498d8112
-    projectPath: Library/Artifacts/93/93befdf4cd72536ff86b1b38498d8112
+  - path: Library/Artifacts/29/29fa4d0f25b0f3fd9ab1a1d84130ff4c
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/29/29fa4d0f25b0f3fd9ab1a1d84130ff4c
+    projectPath: Library/Artifacts/29/29fa4d0f25b0f3fd9ab1a1d84130ff4c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/98/982fe09be537850f8de81db2d8cd8215
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/98/982fe09be537850f8de81db2d8cd8215
-    projectPath: Library/Artifacts/98/982fe09be537850f8de81db2d8cd8215
+  - path: Library/Artifacts/2c/2c1c96b97ce810550b91f052731c6cc1
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/2c/2c1c96b97ce810550b91f052731c6cc1
+    projectPath: Library/Artifacts/2c/2c1c96b97ce810550b91f052731c6cc1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/a5/a5ca52c5dd2c12bd5c61d30f71ac675b
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/a5/a5ca52c5dd2c12bd5c61d30f71ac675b
-    projectPath: Library/Artifacts/a5/a5ca52c5dd2c12bd5c61d30f71ac675b
+  - path: Library/Artifacts/2f/2f209d5d91ab803047c5cdd51e2d7765
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/2f/2f209d5d91ab803047c5cdd51e2d7765
+    projectPath: Library/Artifacts/2f/2f209d5d91ab803047c5cdd51e2d7765
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/be/beb5af7d8a6229eac94162356340f162
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/be/beb5af7d8a6229eac94162356340f162
-    projectPath: Library/Artifacts/be/beb5af7d8a6229eac94162356340f162
+  - path: Library/Artifacts/2f/2f3a1bea46f0bc29fb3bdc8f4cfdd3f8
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/2f/2f3a1bea46f0bc29fb3bdc8f4cfdd3f8
+    projectPath: Library/Artifacts/2f/2f3a1bea46f0bc29fb3bdc8f4cfdd3f8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/c0/c0e6fbaec1db94de31ace02203a240f7
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/c0/c0e6fbaec1db94de31ace02203a240f7
-    projectPath: Library/Artifacts/c0/c0e6fbaec1db94de31ace02203a240f7
+  - path: Library/Artifacts/41/415be82193f059b9c8606923d379aa72
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/41/415be82193f059b9c8606923d379aa72
+    projectPath: Library/Artifacts/41/415be82193f059b9c8606923d379aa72
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/cd/cd6afec863391199e7e70c3a3e6b4dc4
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/cd/cd6afec863391199e7e70c3a3e6b4dc4
-    projectPath: Library/Artifacts/cd/cd6afec863391199e7e70c3a3e6b4dc4
+  - path: Library/Artifacts/49/49dd3bd28c2c99e4841ce885b6cd8531
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/49/49dd3bd28c2c99e4841ce885b6cd8531
+    projectPath: Library/Artifacts/49/49dd3bd28c2c99e4841ce885b6cd8531
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/e8/e87cbfbcd0e9641e29294d4aa1040789
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/e8/e87cbfbcd0e9641e29294d4aa1040789
-    projectPath: Library/Artifacts/e8/e87cbfbcd0e9641e29294d4aa1040789
+  - path: Library/Artifacts/4e/4ec4f8b73f9a19b49806520599527275
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/4e/4ec4f8b73f9a19b49806520599527275
+    projectPath: Library/Artifacts/4e/4ec4f8b73f9a19b49806520599527275
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ed/edf8b07841108fb852621f864f38bff3
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/ed/edf8b07841108fb852621f864f38bff3
-    projectPath: Library/Artifacts/ed/edf8b07841108fb852621f864f38bff3
+  - path: Library/Artifacts/4e/4ef16f12fc01ec39a03df248c03f4043
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/4e/4ef16f12fc01ec39a03df248c03f4043
+    projectPath: Library/Artifacts/4e/4ef16f12fc01ec39a03df248c03f4043
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/f4/f458607213083699a8b5d514eff8bbe6
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/f4/f458607213083699a8b5d514eff8bbe6
-    projectPath: Library/Artifacts/f4/f458607213083699a8b5d514eff8bbe6
+  - path: Library/Artifacts/50/507f162177f1bc7e7b7981d3e5a05b3a
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/50/507f162177f1bc7e7b7981d3e5a05b3a
+    projectPath: Library/Artifacts/50/507f162177f1bc7e7b7981d3e5a05b3a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/fd/fd6c97594d7d8bb17e30d361048ebaae
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/fd/fd6c97594d7d8bb17e30d361048ebaae
-    projectPath: Library/Artifacts/fd/fd6c97594d7d8bb17e30d361048ebaae
+  - path: Library/Artifacts/51/517ca410b309a01e43af34188dd0cb9c
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/51/517ca410b309a01e43af34188dd0cb9c
+    projectPath: Library/Artifacts/51/517ca410b309a01e43af34188dd0cb9c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ff/ffcfc28784738a6f715b9107ff948998
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/ff/ffcfc28784738a6f715b9107ff948998
-    projectPath: Library/Artifacts/ff/ffcfc28784738a6f715b9107ff948998
+  - path: Library/Artifacts/52/522b9f671229b95b7e5e21e4e67547ae
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/52/522b9f671229b95b7e5e21e4e67547ae
+    projectPath: Library/Artifacts/52/522b9f671229b95b7e5e21e4e67547ae
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/CurrentLayout-default.dwlt
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/CurrentLayout-default.dwlt
-    projectPath: Library/CurrentLayout-default.dwlt
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/53/531d88817ed72496af33674b23ddb322
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/53/531d88817ed72496af33674b23ddb322
+    projectPath: Library/Artifacts/53/531d88817ed72496af33674b23ddb322
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/CurrentMaximizeLayout.dwlt
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/CurrentMaximizeLayout.dwlt
-    projectPath: Library/CurrentMaximizeLayout.dwlt
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/58/5816e15825b74df992b803fa47b9393a
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/58/5816e15825b74df992b803fa47b9393a
+    projectPath: Library/Artifacts/58/5816e15825b74df992b803fa47b9393a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/EditorInstance.json
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/58/58a65df5975a38d09f0dde6c59386911
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/58/58a65df5975a38d09f0dde6c59386911
+    projectPath: Library/Artifacts/58/58a65df5975a38d09f0dde6c59386911
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5e/5e6ab3ab738211820a606fd8dfd8d89b
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/5e/5e6ab3ab738211820a606fd8dfd8d89b
+    projectPath: Library/Artifacts/5e/5e6ab3ab738211820a606fd8dfd8d89b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5f/5fc61e443c5bb6bf78776f5ec4041550
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/5f/5fc61e443c5bb6bf78776f5ec4041550
+    projectPath: Library/Artifacts/5f/5fc61e443c5bb6bf78776f5ec4041550
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/62/6238a9fd5e90238efdbc54fbf222722e
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/62/6238a9fd5e90238efdbc54fbf222722e
+    projectPath: Library/Artifacts/62/6238a9fd5e90238efdbc54fbf222722e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/62/62c882734e666672e8f274fe0ce88cf5
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/62/62c882734e666672e8f274fe0ce88cf5
+    projectPath: Library/Artifacts/62/62c882734e666672e8f274fe0ce88cf5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/74/743a5b4935ed318148fb8bca5b841e3a
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/74/743a5b4935ed318148fb8bca5b841e3a
+    projectPath: Library/Artifacts/74/743a5b4935ed318148fb8bca5b841e3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/74/74ee16350ac13c101807c479e2018c39
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/74/74ee16350ac13c101807c479e2018c39
+    projectPath: Library/Artifacts/74/74ee16350ac13c101807c479e2018c39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/77/7729d167a5e7b215801431e29f11df66
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/77/7729d167a5e7b215801431e29f11df66
+    projectPath: Library/Artifacts/77/7729d167a5e7b215801431e29f11df66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7e/7e3583f4a282faccca4338490a58ca11
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/7e/7e3583f4a282faccca4338490a58ca11
+    projectPath: Library/Artifacts/7e/7e3583f4a282faccca4338490a58ca11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7e/7efe58a143bb505c263c4447404b8e04
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/7e/7efe58a143bb505c263c4447404b8e04
+    projectPath: Library/Artifacts/7e/7efe58a143bb505c263c4447404b8e04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7f/7ffe6eff69fb19a05d8bb2d35e1e035d
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/7f/7ffe6eff69fb19a05d8bb2d35e1e035d
+    projectPath: Library/Artifacts/7f/7ffe6eff69fb19a05d8bb2d35e1e035d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/80/809092a5fb9c0af7bf86641167141acd
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/80/809092a5fb9c0af7bf86641167141acd
+    projectPath: Library/Artifacts/80/809092a5fb9c0af7bf86641167141acd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/81/8122c3a8fdfc7371dc345d42a7145067
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/81/8122c3a8fdfc7371dc345d42a7145067
+    projectPath: Library/Artifacts/81/8122c3a8fdfc7371dc345d42a7145067
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/83/83c0be563480e4c70689c7de6c1ae8ab
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/83/83c0be563480e4c70689c7de6c1ae8ab
+    projectPath: Library/Artifacts/83/83c0be563480e4c70689c7de6c1ae8ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/93/936da62d8b67c5e07e0ff024e3236ca3
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/93/936da62d8b67c5e07e0ff024e3236ca3
+    projectPath: Library/Artifacts/93/936da62d8b67c5e07e0ff024e3236ca3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/93/93efd2941d53d5e1cd46dcacef9ec4dc
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/93/93efd2941d53d5e1cd46dcacef9ec4dc
+    projectPath: Library/Artifacts/93/93efd2941d53d5e1cd46dcacef9ec4dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/95/9509b7b120c8efd954f4957f481d43f9
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/95/9509b7b120c8efd954f4957f481d43f9
+    projectPath: Library/Artifacts/95/9509b7b120c8efd954f4957f481d43f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/95/95e4bf81defa25a657192400f2158455
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/95/95e4bf81defa25a657192400f2158455
+    projectPath: Library/Artifacts/95/95e4bf81defa25a657192400f2158455
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/99/9949c21f9bbea2c3d7680020eba497a6
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/99/9949c21f9bbea2c3d7680020eba497a6
+    projectPath: Library/Artifacts/99/9949c21f9bbea2c3d7680020eba497a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a2/a23e9a4de8f903892471bcb1ca7749b0
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/a2/a23e9a4de8f903892471bcb1ca7749b0
+    projectPath: Library/Artifacts/a2/a23e9a4de8f903892471bcb1ca7749b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b9/b983bb3d5e18ed593c755a90079b8752
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/b9/b983bb3d5e18ed593c755a90079b8752
+    projectPath: Library/Artifacts/b9/b983bb3d5e18ed593c755a90079b8752
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c0/c039955a52d7117c809de5bf8f6729e7
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/c0/c039955a52d7117c809de5bf8f6729e7
+    projectPath: Library/Artifacts/c0/c039955a52d7117c809de5bf8f6729e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c4/c41573579234b4c2d9a8de92158c4fe1
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/c4/c41573579234b4c2d9a8de92158c4fe1
+    projectPath: Library/Artifacts/c4/c41573579234b4c2d9a8de92158c4fe1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c8/c8fdbaaa5b66fd6fedea978098c45340
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/c8/c8fdbaaa5b66fd6fedea978098c45340
+    projectPath: Library/Artifacts/c8/c8fdbaaa5b66fd6fedea978098c45340
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ca/caa074c8c5bbe85de51f6ad69ca4fe46
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/ca/caa074c8c5bbe85de51f6ad69ca4fe46
+    projectPath: Library/Artifacts/ca/caa074c8c5bbe85de51f6ad69ca4fe46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d1/d13590c11489ee1e6aadde6d9d3e401d
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/d1/d13590c11489ee1e6aadde6d9d3e401d
+    projectPath: Library/Artifacts/d1/d13590c11489ee1e6aadde6d9d3e401d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d7/d7c6d71b1c227a65022d3a7592f4bcbd
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/d7/d7c6d71b1c227a65022d3a7592f4bcbd
+    projectPath: Library/Artifacts/d7/d7c6d71b1c227a65022d3a7592f4bcbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d9/d9852ba0940d3b82ebb7a16e24a99eb5
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/d9/d9852ba0940d3b82ebb7a16e24a99eb5
+    projectPath: Library/Artifacts/d9/d9852ba0940d3b82ebb7a16e24a99eb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/da/da9dcdf1fb0b636aa9b9b035eef975cd
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/da/da9dcdf1fb0b636aa9b9b035eef975cd
+    projectPath: Library/Artifacts/da/da9dcdf1fb0b636aa9b9b035eef975cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e3/e3a037f124a8f8e6119ec17f9af87d21
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/e3/e3a037f124a8f8e6119ec17f9af87d21
+    projectPath: Library/Artifacts/e3/e3a037f124a8f8e6119ec17f9af87d21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e7/e78de05e0efee20caf969dfede20ae37
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/e7/e78de05e0efee20caf969dfede20ae37
+    projectPath: Library/Artifacts/e7/e78de05e0efee20caf969dfede20ae37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e8/e8706336c7699395e5707962783b51f8
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/e8/e8706336c7699395e5707962783b51f8
+    projectPath: Library/Artifacts/e8/e8706336c7699395e5707962783b51f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ee/ee888305cf766fa3cd0c4217ee7c54b0
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/Artifacts/ee/ee888305cf766fa3cd0c4217ee7c54b0
+    projectPath: Library/Artifacts/ee/ee888305cf766fa3cd0c4217ee7c54b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitlog.yaml
     fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
@@ -411,12 +1321,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/gituser.yaml
     fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/gfu/cache/gituser.yaml
     projectPath: Library/gfu/cache/gituser.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -450,39 +1354,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ShaderCache/0/097dea99d61a9d78fd4a5321eeddc8d3.bin
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/ShaderCache/0/097dea99d61a9d78fd4a5321eeddc8d3.bin
-    projectPath: Library/ShaderCache/0/097dea99d61a9d78fd4a5321eeddc8d3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/5/5c4d6c3aecf9a0ef56a59cadf3b6ead2.bin
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/ShaderCache/5/5c4d6c3aecf9a0ef56a59cadf3b6ead2.bin
-    projectPath: Library/ShaderCache/5/5c4d6c3aecf9a0ef56a59cadf3b6ead2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/8/8b1518793ab315ebd9bf48683bac1c6a.bin
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/ShaderCache/8/8b1518793ab315ebd9bf48683bac1c6a.bin
-    projectPath: Library/ShaderCache/8/8b1518793ab315ebd9bf48683bac1c6a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/9/9d0227e66278418bf3ad23c0cce3bb63.bin
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/ShaderCache/9/9d0227e66278418bf3ad23c0cce3bb63.bin
-    projectPath: Library/ShaderCache/9/9d0227e66278418bf3ad23c0cce3bb63.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/ShaderCache/EditorEncounteredVariants
     fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/ShaderCache/EditorEncounteredVariants
     projectPath: Library/ShaderCache/EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler7.log
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/shadercompiler-UnityShaderCompiler7.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler7.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -498,15 +1372,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/StateCache/PrefabStageHierarchy/00/00d73af264ab0eddfeee19efe6e49076.json
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/StateCache/PrefabStageHierarchy/00/00d73af264ab0eddfeee19efe6e49076.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/00/00d73af264ab0eddfeee19efe6e49076.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/StateCache/PrefabStageHierarchy/84/84d8e4e441025ac13df300d63ee970ae.json
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/StateCache/PrefabStageHierarchy/84/84d8e4e441025ac13df300d63ee970ae.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/84/84d8e4e441025ac13df300d63ee970ae.json
+  - path: Library/StateCache/PrefabStageHierarchy/f2/f27fcda5c18f64970a6f1cf405c0b6ab.json
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Library/StateCache/PrefabStageHierarchy/f2/f27fcda5c18f64970a6f1cf405c0b6ab.json
+    projectPath: Library/StateCache/PrefabStageHierarchy/f2/f27fcda5c18f64970a6f1cf405c0b6ab.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -516,111 +1384,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj/Debug/Elringus.SpriteGlow.Runtime.csprojAssemblyReference.cache
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/obj/Debug/Elringus.SpriteGlow.Runtime.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Elringus.SpriteGlow.Runtime.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings/TagManager.asset
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/ProjectSettings/TagManager.asset
-    projectPath: ProjectSettings/TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp/__Backupscenes/0.backup
     fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-1f34c6bbe0a9940628a1748754a9507f
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-1f34c6bbe0a9940628a1748754a9507f
-    projectPath: Temp/UnityTempFile-1f34c6bbe0a9940628a1748754a9507f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-3e82d6075aac442049602a0129b10097
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-3e82d6075aac442049602a0129b10097
-    projectPath: Temp/UnityTempFile-3e82d6075aac442049602a0129b10097
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-45cab4e49a99448a6967e792249a730d
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-45cab4e49a99448a6967e792249a730d
-    projectPath: Temp/UnityTempFile-45cab4e49a99448a6967e792249a730d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-510915d4014a544ad9a5c7a684859633
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-510915d4014a544ad9a5c7a684859633
-    projectPath: Temp/UnityTempFile-510915d4014a544ad9a5c7a684859633
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-53e4e1f6c256c40468a5d014f2bec30b
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-53e4e1f6c256c40468a5d014f2bec30b
-    projectPath: Temp/UnityTempFile-53e4e1f6c256c40468a5d014f2bec30b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-5c98fe5cfa2994e3e905a21f10553ac7
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-5c98fe5cfa2994e3e905a21f10553ac7
-    projectPath: Temp/UnityTempFile-5c98fe5cfa2994e3e905a21f10553ac7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-5f251a6662c9a4186b73bada102c34d9
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-5f251a6662c9a4186b73bada102c34d9
-    projectPath: Temp/UnityTempFile-5f251a6662c9a4186b73bada102c34d9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-68e8b02cf21aa43a2b6283e165d86d20
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-68e8b02cf21aa43a2b6283e165d86d20
-    projectPath: Temp/UnityTempFile-68e8b02cf21aa43a2b6283e165d86d20
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-6b29338f22dfe489a9f7866fefc94a24
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-6b29338f22dfe489a9f7866fefc94a24
-    projectPath: Temp/UnityTempFile-6b29338f22dfe489a9f7866fefc94a24
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-7cbfe86a4435d4ea795ba6106664fa60
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-7cbfe86a4435d4ea795ba6106664fa60
-    projectPath: Temp/UnityTempFile-7cbfe86a4435d4ea795ba6106664fa60
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-8b72a5bc1f9f044fc99afe96f5eff311
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-8b72a5bc1f9f044fc99afe96f5eff311
-    projectPath: Temp/UnityTempFile-8b72a5bc1f9f044fc99afe96f5eff311
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-b593c5b624b6b4a91873a08a22aff2b5
-    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-b593c5b624b6b4a91873a08a22aff2b5
-    projectPath: Temp/UnityTempFile-b593c5b624b6b4a91873a08a22aff2b5
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-877d44353f6d040c981a98e188e907b8
+    fullPath: /Users/koyanagitomoyuki/Unity/yukari/Temp/UnityTempFile-877d44353f6d040c981a98e188e907b8
+    projectPath: Temp/UnityTempFile-877d44353f6d040c981a98e188e907b8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
