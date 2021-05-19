@@ -1,22 +1,23 @@
 ﻿<Properties StartupConfiguration="{8D45BF63-7519-D232-C44C-B3EA4C823E04}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HitChecker.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerCtrl.cs">
     <Files>
       <File FileName="Assets/DokanCtrl.cs" Line="33" Column="19" />
       <File FileName="Assets/CamraCtrl.cs" />
-      <File FileName="Assets/CanvasCtrl.cs" />
+      <File FileName="Assets/CanvasCtrl.cs" Line="109" Column="41" />
       <File FileName="Assets/StarCtrl.cs" />
-      <File FileName="Assets/titleScene.cs" />
+      <File FileName="Assets/titleScene.cs" Line="24" Column="1" />
       <File FileName="Assets/enemy01Ctrl.cs" Line="125" Column="14" />
       <File FileName="Assets/MoveGroundCtrl.cs" Line="15" Column="2" />
-      <File FileName="Assets/PlayerCtrl.cs" Line="215" Column="40" />
-      <File FileName="Assets/HitChecker.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerCtrl.cs" Line="3" Column="14" />
+      <File FileName="Assets/HitChecker.cs" Line="7" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="yukari" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="HitChecker.cs" selected="True" />
+              <Node name="csScript" expanded="True" />
+              <Node name="PlayerCtrl.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -25,9 +26,11 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa10ba78-8988-484f-803b-397a5eb033f4" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eb80cd66-38dd-44a8-ad52-2080881718d9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/koyanagitomoyuki/Unity/yukari/Assets/PlayerCtrl.cs" relfile="Assets/PlayerCtrl.cs" line="21" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

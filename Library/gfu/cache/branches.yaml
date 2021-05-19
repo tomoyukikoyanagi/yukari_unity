@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-05-16T20:14:32.412+09:00
+  lastUpdatedAtString: 2021-05-16T23:49:32.231+09:00
   initializedAtString: 2021-05-16T20:14:32.213+09:00
   localBranches:
   - name: stage2
     tracking: origin/stage2
-  remoteBranches: []
+  remoteBranches:
+  - name: origin/stage2
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/tomoyukikoyanagi/yukari_unity
@@ -40,9 +42,15 @@ MonoBehaviour:
     keys:
     - origin
     subKeys:
-    - Values: []
+    - Values:
+      - stage2
     subKeyValues:
-    - Values: []
+    - Values:
+      - name: stage2
+        remote:
+          name: origin
+          url: https://github.com/tomoyukikoyanagi/yukari_unity
+        trackingBranch: 
   configRemotes:
     keys:
     - origin

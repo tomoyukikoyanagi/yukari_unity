@@ -59,6 +59,7 @@
     <Compile Include="Assets/HitChecker.cs" />
     <Compile Include="Assets/Sound.cs" />
     <Compile Include="Assets/sakuraBoxCtrl.cs" />
+    <Compile Include="Assets/MoveGroundCtrl.cs" />
     <Compile Include="Assets/cherryCtrl.cs" />
     <Compile Include="Assets/DokanCtrl.cs" />
     <Compile Include="Assets/PlayerCtrl.cs" />
@@ -70,7 +71,7 @@
     <Compile Include="Assets/titleScene.cs" />
     <Compile Include="Assets/boxCtrl.cs" />
     <Compile Include="Assets/StarCtrl.cs" />
-    <Compile Include="Assets/MoveGroundCtrl.cs" />
+    <Compile Include="Assets/csScript/transitionpoint12.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/SpriteGlow/Resources/SpriteGlow/Shaders/SpriteOutline.shader" />

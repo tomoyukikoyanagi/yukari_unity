@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 using DG.Tweening;
 
 public class PlayerCtrl : MonoBehaviour
@@ -255,6 +255,12 @@ public class PlayerCtrl : MonoBehaviour
             urp.pointLightOuterRadius = outerRadius2;
             isLightMode = true;
             Invoke("EndLightMode", 10.0f);
+        }
+
+        if (col.gameObject.tag == "transitionPoint12")
+        {
+            Debug.Log("entered tp12");
+            SceneManager.LoadScene("stage1-2");
         }
     }
 
